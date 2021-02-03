@@ -8,3 +8,4 @@
 - [Chapter 5](./chap5.md)
 - [Chapter 6](./chap6.md)
 - [Chapter 7](./chap7.md)
+- [Chapter 8](./chap8.md)
